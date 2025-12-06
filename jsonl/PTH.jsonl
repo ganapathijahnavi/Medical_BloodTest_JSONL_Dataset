@@ -1,0 +1,25 @@
+{"instruction": "Interpret this PTH result.", "input": "PTH = 45 pg/mL, Calcium = 9.2 mg/dL", "output": "Normal. Balanced calcium regulation."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 120 pg/mL, Calcium = 11.2 mg/dL", "output": "Elevated. Primary hyperparathyroidism likely."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 15 pg/mL, Calcium = 12.0 mg/dL", "output": "Low. Hypercalcemia of malignancy (PTH-independent)."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 150 pg/mL, Calcium = 8.0 mg/dL, CKD patient", "output": "Secondary hyperparathyroidism due to kidney failure."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 5 pg/mL, Calcium = 7.0 mg/dL", "output": "Low. Hypoparathyroidism → hypocalcemia."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 200 pg/mL, Calcium = 8.5 mg/dL, Vitamin D deficient", "output": "Secondary hyperparathyroidism due to vitamin D deficiency."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 70 pg/mL, Calcium = 10.5 mg/dL", "output": "Borderline elevation; possible early primary hyperparathyroidism."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 300 pg/mL, Calcium = 12.5 mg/dL, kidney transplant patient", "output": "Tertiary hyperparathyroidism."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 12 pg/mL, Calcium = 9.5 mg/dL", "output": "Low-normal. Likely physiological."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 250 pg/mL, Calcium = 7.8 mg/dL", "output": "Elevated with hypocalcemia → secondary hyperparathyroidism."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 100 pg/mL, Calcium = 11.5 mg/dL, bone pain", "output": "Primary hyperparathyroidism (symptomatic)."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 30 pg/mL, Calcium = 13.0 mg/dL, lung cancer", "output": "Suppressed. Likely PTHrP-mediated hypercalcemia."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 400 pg/mL, Calcium = 7.5 mg/dL, CKD stage 5", "output": "Severe secondary hyperparathyroidism from renal failure."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 20 pg/mL, Calcium = 6.5 mg/dL, muscle cramps", "output": "Hypoparathyroidism with symptomatic hypocalcemia."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 65 pg/mL, Calcium = 9.0 mg/dL", "output": "Upper-normal; may be compensatory in vitamin D insufficiency."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 90 pg/mL, Calcium = 8.6 mg/dL, phosphate high", "output": "Secondary hyperparathyroidism (CKD-related)."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 140 pg/mL, Calcium = 9.3 mg/dL, on dialysis", "output": "Secondary hyperparathyroidism (renal disease)."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 110 pg/mL, Calcium = 10.2 mg/dL, osteoporosis patient", "output": "Primary hyperparathyroidism contributing to bone loss."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 10 pg/mL, Calcium = 7.2 mg/dL, post-thyroid surgery", "output": "Postsurgical hypoparathyroidism."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 15 pg/mL, Calcium = 10.8 mg/dL", "output": "Low PTH with hypercalcemia; not parathyroid mediated."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 180 pg/mL, Calcium = 11.8 mg/dL", "output": "Strongly suggestive of primary hyperparathyroidism."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 90 pg/mL, Calcium = 9.0 mg/dL, vitamin D = low", "output": "Secondary hyperparathyroidism due to vitamin D deficiency."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 35 pg/mL, Calcium = 12.0 mg/dL, metastatic breast cancer", "output": "Suppressed PTH; hypercalcemia of malignancy."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 160 pg/mL, Calcium = 9.5 mg/dL, phosphate low", "output": "Primary hyperparathyroidism (phosphate wasting)."}
+{"instruction": "Interpret this PTH result.", "input": "PTH = 220 pg/mL, Calcium = 8.2 mg/dL, CKD with bone pain", "output": "Renal osteodystrophy with secondary hyperparathyroidism."}
