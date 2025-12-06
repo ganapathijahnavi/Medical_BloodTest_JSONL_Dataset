@@ -1,0 +1,27 @@
+{"instruction": "Interpret this parameter: Uric Acid.", "input": "Uric Acid normal ranges: Men 3.4–7.0 mg/dL, Women 2.4–6.0 mg/dL. Clinical significance, future diseases, and lifestyle recommendations.", "output": "Uric acid reflects purine metabolism... (full explanation of significance, risks, and lifestyle guidance)."}
+
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 4.5 mg/dL, healthy adult male", "output": "Normal. No intervention needed."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 3.0 mg/dL, healthy adult female", "output": "Normal range. Continue healthy lifestyle."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 2.0 mg/dL, malnourished patient", "output": "Low uric acid. May suggest poor nutrition or liver disease."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 7.2 mg/dL, asymptomatic male", "output": "Slightly high. Monitor; lifestyle changes may help."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 8.5 mg/dL, obese patient", "output": "Hyperuricemia. At risk for gout and metabolic syndrome."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 9.0 mg/dL, hypertensive patient", "output": "High. Strong link with cardiovascular and renal risks."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 10.2 mg/dL, joint pain present", "output": "Likely gout. Requires medical treatment."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 11.0 mg/dL, renal stone history", "output": "Severe hyperuricemia. High risk of kidney stones."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 12.5 mg/dL, chronic kidney disease patient", "output": "Very high. Impaired renal excretion. Needs nephrology care."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 6.8 mg/dL, borderline", "output": "Upper normal. Monitor diet and hydration."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 7.5 mg/dL, heavy alcohol consumption", "output": "Elevated. Alcohol is a major contributor. Reduce intake."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 5.0 mg/dL, diabetic patient", "output": "Normal, but needs ongoing monitoring due to metabolic risk."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 2.5 mg/dL, liver cirrhosis", "output": "Low. Possibly due to impaired purine metabolism."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 8.0 mg/dL, chemotherapy patient", "output": "Elevated. Could indicate tumor lysis syndrome."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 9.8 mg/dL, young male with swollen toe", "output": "Gouty arthritis (classic podagra). Urgent therapy required."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 6.2 mg/dL, female with no symptoms", "output": "Normal. Continue balanced lifestyle."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 11.5 mg/dL, hypertension + CKD", "output": "Dangerous level. Needs urate-lowering drugs."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 7.1 mg/dL, elderly male", "output": "Slightly elevated. Monitor joints and renal health."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 5.8 mg/dL, pregnant woman", "output": "Normal. Elevated levels in pregnancy can suggest preeclampsia."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 3.2 mg/dL, malabsorption syndrome", "output": "Low. May indicate nutritional deficiency."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 14.0 mg/dL, advanced renal failure", "output": "Severe. Dialysis or strong medication needed."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 6.0 mg/dL, on uric acid-lowering drugs", "output": "Controlled. Continue therapy."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 8.8 mg/dL, high red meat intake", "output": "Diet-related hyperuricemia. Dietary modification needed."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 7.6 mg/dL, postmenopausal woman", "output": "Elevated. Risk of gout increases after menopause."}
+{"instruction": "Interpret the given uric acid value.", "input": "Uric Acid = 10.5 mg/dL, recurrent kidney stones", "output": "Severe hyperuricemia. High risk of uric acid nephrolithiasis. Preventive therapy required."}
