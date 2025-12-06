@@ -1,0 +1,25 @@
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 55%, sore throat, swollen lymph nodes", "output": "Suggests infectious mononucleosis (viral infection)"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 15%, HIV-positive patient", "output": "Lymphocytopenia due to viral immunosuppression → Needs antiretroviral therapy"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 45%, persistent cough, night sweats", "output": "Could indicate tuberculosis or lymphoma → Further tests required"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 10%, chemotherapy patient", "output": "Severe lymphocytopenia → High infection risk"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 38%, flu-like symptoms", "output": "Likely viral infection → Supportive care"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 60%, elderly patient", "output": "Possible chronic lymphocytic leukemia (CLL) → Hematology referral"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 25%, healthy adult", "output": "Normal range → No concern"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 12%, on corticosteroid therapy", "output": "Steroid-induced lymphocytopenia → Reversible"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 50%, child with fever and rash", "output": "Suggests viral exanthem (e.g., measles, chickenpox)"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 18%, patient with lupus", "output": "Autoimmune-related lymphopenia"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 48%, chronic smoker", "output": "Possible chronic lung infection or stress-related elevation"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 14%, post-organ transplant patient", "output": "Immunosuppressant-induced lymphopenia"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 22%, diabetic with no symptoms", "output": "Within normal range → Monitor with other labs"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 65%, patient with fatigue and night sweats", "output": "Possible hematologic malignancy (CLL/lymphoma)"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 30%, mild cough, recovering from viral cold", "output": "Normal immune response → Self-limiting"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 8%, ICU patient with sepsis", "output": "Severe lymphopenia → Poor prognosis marker"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 46%, hepatitis B patient", "output": "Viral infection immune response"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 20%, pregnant woman", "output": "Normal range → No issue"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 70%, persistent abnormal for months", "output": "Strong suspicion of leukemia → Needs bone marrow biopsy"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 28%, mild fatigue", "output": "Normal → Check for other causes of fatigue"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 11%, post-radiation therapy patient", "output": "Radiation-induced lymphopenia"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 42%, child with recurrent ear infections", "output": "Possible immune dysfunction → Pediatric evaluation"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 17%, patient with malnutrition", "output": "Secondary lymphopenia due to poor nutrition"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 58%, with enlarged spleen", "output": "Could indicate chronic infection or hematologic disorder"}
+{"instruction": "Interpret this lymphocyte result.", "input": "Lymphocytes 35%, athlete after intense training", "output": "Normal/physiological → Exercise-related changes, not pathological"}
