@@ -1,0 +1,20 @@
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 80%, fever, cough", "output": "Suggests acute bacterial infection → Needs antibiotics."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 75%, on corticosteroid therapy", "output": "Steroid-induced neutrophilia, not infection-related."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 20%, recurrent viral infections", "output": "Viral suppression of bone marrow → Monitor immunity."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 10%, chemotherapy patient", "output": "Severe neutropenia → High infection risk → Protective isolation + G-CSF support."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 65%, stress after surgery", "output": "Stress-related neutrophilia, usually self-limiting."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 50%, healthy patient", "output": "Normal range → No concern."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 15%, HIV-positive patient", "output": "Neutropenia likely due to immunosuppression → Needs monitoring."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 70%, pneumonia symptoms", "output": "Consistent with bacterial pneumonia → Requires antibiotic therapy."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 12%, aplastic anemia case", "output": "Bone marrow suppression → Urgent hematology care."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 60%, mild fever", "output": "Within normal range, monitor symptoms."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 90%, suspected sepsis", "output": "Severe bacterial infection → Emergency management."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 18%, vitamin B12 deficiency", "output": "Nutritional deficiency causing neutropenia → Correct with supplementation."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 68%, rheumatoid arthritis", "output": "Chronic inflammation elevates neutrophil count."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 22%, lupus (SLE) patient", "output": "Autoimmune neutropenia → Needs immunosuppressive adjustment."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 75%, myocardial infarction", "output": "Stress response post-MI → Neutrophilia common."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 14%, bone marrow transplant patient", "output": "Post-transplant neutropenia → High infection risk."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 77%, burns patient", "output": "Stress/inflammatory response → Expected neutrophilia."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 19%, chronic hepatitis", "output": "Bone marrow suppression from liver disease → Monitor closely."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 72%, appendicitis", "output": "Neutrophilia supports acute infection → Needs surgical evaluation."}
+{"instruction": "Interpret this neutrophil result.", "input": "Neutrophils 25%, chemotherapy recovery phase", "output": "Improving but still low → Continue monitoring counts."}
