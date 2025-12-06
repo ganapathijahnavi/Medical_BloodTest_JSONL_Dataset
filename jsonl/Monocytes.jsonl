@@ -1,0 +1,25 @@
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 12%, fever, night sweats", "output": "Monocytosis suggesting tuberculosis or chronic infection."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 9%, rheumatoid arthritis patient", "output": "Elevated due to chronic autoimmune inflammation."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 1%, chemotherapy patient", "output": "Chemotherapy-induced monocytopenia → High infection risk."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 10%, persistent sore throat, weight loss", "output": "Could indicate hematologic malignancy (leukemia)."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 7%, mild viral illness", "output": "Slight elevation due to viral infection → Usually self-limiting."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 3%, healthy adult", "output": "Normal → No concern."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 0.5%, on corticosteroid therapy", "output": "Steroid-induced monocytopenia → Reversible."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 11%, HIV-positive patient with fever", "output": "May suggest opportunistic infection (TB, fungal)."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 6%, child recovering from measles", "output": "Normal immune recovery phase."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 13%, enlarged spleen and fatigue", "output": "Could indicate chronic myelomonocytic leukemia (CMML)."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 4%, diabetic patient, asymptomatic", "output": "Normal → No specific issue."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 8%, hepatitis B patient", "output": "Slightly elevated due to viral liver inflammation."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 15%, patient with chronic cough", "output": "Suggests tuberculosis → Needs sputum and imaging."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 2%, ICU patient with sepsis", "output": "Low monocytes → Poor prognosis marker."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 9%, lupus patient", "output": "Autoimmune-related monocytosis."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 5%, recovering from bacterial pneumonia", "output": "Normal immune recovery."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 0.8%, post bone marrow transplant", "output": "Monocytopenia → Bone marrow suppression."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 12%, elderly with anemia and weight loss", "output": "Possible hematologic malignancy → Needs bone marrow biopsy."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 7%, flu-like symptoms", "output": "Within upper normal → Viral immune response."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 1.5%, patient with aplastic anemia", "output": "Severe monocytopenia → Bone marrow failure."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 10%, recurrent fever and arthritis", "output": "May suggest autoinflammatory condition."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 4%, athlete after marathon", "output": "Normal immune fluctuation due to physical stress."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 14%, chronic smoker with cough", "output": "Possible chronic bronchitis or lung infection."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 2.5%, pregnant woman", "output": "Normal → No issue."}
+{"instruction": "Interpret this monocyte result.", "input": "Monocytes 18%, persistent abnormal for months", "output": "Strong suspicion of chronic myelomonocytic leukemia → Hematology referral."}
