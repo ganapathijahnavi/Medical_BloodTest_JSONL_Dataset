@@ -1,0 +1,25 @@
+{"instruction": "Interpret this procalcitonin result.", "input": "Healthy individual", "output": "PCT < 0.05 ng/mL → Normal, no infection."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Common cold (viral)", "output": "PCT < 0.1 ng/mL → Viral, not bacterial."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Mild urinary tract infection", "output": "PCT 0.2 ng/mL → Local bacterial infection."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Local skin infection (cellulitis)", "output": "PCT 0.3 ng/mL → Mild bacterial involvement."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Strep throat", "output": "PCT 0.4 ng/mL → Bacterial infection likely."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Early bacterial pneumonia", "output": "PCT 0.6 ng/mL → Suggests bacterial cause."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Community-acquired pneumonia (moderate)", "output": "PCT 1.0 ng/mL → Significant bacterial infection."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Severe pneumonia", "output": "PCT 2.0 ng/mL → Severe bacterial involvement."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Hospital-acquired pneumonia", "output": "PCT 3.5 ng/mL → High, resistant bacteria possible."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Acute appendicitis", "output": "PCT 1.2 ng/mL → Active bacterial inflammation."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Bacterial meningitis", "output": "PCT 4.0 ng/mL → Strongly suggests bacterial meningitis."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Viral meningitis", "output": "PCT < 0.2 ng/mL → Viral, not bacterial."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Early sepsis (urinary origin)", "output": "PCT 1.5 ng/mL → Bacteremia likely."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Abdominal sepsis", "output": "PCT 5.0 ng/mL → Severe sepsis."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Septic shock with organ failure", "output": "PCT 10 ng/mL → Life-threatening bacterial sepsis."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Post-surgical wound infection", "output": "PCT 2.5 ng/mL → Post-op bacterial infection."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Post-surgical recovery (no infection)", "output": "PCT < 0.2 ng/mL → Normal healing."}
+{"instruction": "Interpret this procalcitonin result.", "input": "COVID-19 viral infection", "output": "PCT < 0.1 ng/mL → Viral only, no bacterial."}
+{"instruction": "Interpret this procalcitonin result.", "input": "COVID-19 with bacterial pneumonia", "output": "PCT 1.5 ng/mL → Secondary bacterial infection."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Tuberculosis", "output": "PCT < 0.5 ng/mL → Chronic bacterial, low PCT."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Malaria (parasitic infection)", "output": "PCT ~0.8 ng/mL → Mild rise, not specific."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Pancreatitis (sterile)", "output": "PCT < 0.3 ng/mL → No infection yet."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Pancreatitis with infected necrosis", "output": "PCT 3.0 ng/mL → Severe infection."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Newborn suspected sepsis", "output": "PCT > 2 ng/mL → Neonatal sepsis likely."}
+{"instruction": "Interpret this procalcitonin result.", "input": "Patient on antibiotics, improving", "output": "PCT falls 4.0 → 0.8 ng/mL → Infection resolving."}
