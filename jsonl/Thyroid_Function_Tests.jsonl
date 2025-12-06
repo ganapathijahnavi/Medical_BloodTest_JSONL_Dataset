@@ -1,0 +1,25 @@
+{"instruction":"Interpret thyroid function test.","input":"TSH 2.0, T3 120, T4 7.5","output":"All within range → Normal thyroid function."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 6.2, T3 70, T4 3.9","output":"Primary hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.1, T3 200, T4 13","output":"Hyperthyroidism (likely Graves’)."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 5.0, T3 115, T4 7.0","output":"Subclinical hypothyroidism (elevated TSH, normal T3/T4)."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.3, T3 85, T4 5.0","output":"Subclinical hyperthyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 8.5, T3 65, T4 3.5","output":"Severe hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.05, T3 190, T4 12","output":"Overt hyperthyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 4.5, T3 130, T4 8.0","output":"Borderline high TSH → monitor for evolving hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.8, T3 175, T4 12","output":"Mild T3 elevation → possible early hyperthyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 3.0, T3 90, T4 5.0","output":"Normal TSH, borderline low T4 → possible early hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.15, T3 120, T4 8.0","output":"Low TSH, normal T3/T4 → subclinical hyperthyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 7.0, T3 80, T4 4.0","output":"Hypothyroidism, consistent with Hashimoto’s thyroiditis."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.2, T3 185, T4 11","output":"Hyperthyroidism (possible toxic nodular goiter)."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 2.5, T3 160, T4 12.0","output":"Normal thyroid status."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 5.5, T3 85, T4 4.6","output":"Early hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.9, T3 82, T4 6.0","output":"Normal thyroid."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 10.0, T3 75, T4 3.5","output":"Severe hypothyroidism requiring immediate therapy."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.05, T3 195, T4 13.5","output":"Severe hyperthyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 3.8, T3 90, T4 6.5","output":"Normal range but high-normal TSH → monitor."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.4, T3 100, T4 5.5","output":"Borderline low T4 with normal TSH → possible central hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 6.5, T3 100, T4 8.0","output":"Subclinical hypothyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.25, T3 178, T4 12","output":"Hyperthyroidism."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 2.0, T3 135, T4 9.0","output":"Normal thyroid function."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 12.0, T3 60, T4 3.0","output":"Advanced hypothyroidism (risk of myxedema)."}
+{"instruction":"Interpret thyroid function test.","input":"TSH 0.08, T3 200, T4 14","output":"Severe hyperthyroidism, consistent with Graves’ flare."}
