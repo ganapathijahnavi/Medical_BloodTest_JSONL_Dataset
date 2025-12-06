@@ -1,0 +1,27 @@
+{"instruction": "Interpret this parameter: VLDL.", "input": "VLDL normal range: 5–40 mg/dL. Includes clinical significance, risks, and lifestyle recommendations.", "output": "VLDL carries triglycerides in the blood... (full explanation of significance, risks, and lifestyle guidance)."}
+
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 12 mg/dL, 28-year-old male", "output": "Normal. Low cardiovascular risk."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 25 mg/dL, 35-year-old female", "output": "Normal, but approaching upper range. Maintain lifestyle."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 38 mg/dL, 45-year-old male, overweight", "output": "Borderline high. Increased risk; weight loss advised."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 50 mg/dL, 50-year-old female", "output": "Elevated. Hypertriglyceridemia; risk of atherosclerosis."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 70 mg/dL, 40-year-old male, diabetic", "output": "Very high; risk of pancreatitis. Urgent triglyceride control needed."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 10 mg/dL, 32-year-old athlete", "output": "Low-normal. No concern; reflects healthy metabolism."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 28 mg/dL, 60-year-old female with hypertension", "output": "Slightly elevated; cardiovascular risk factor. Lifestyle changes needed."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 42 mg/dL, 38-year-old obese male", "output": "Above normal; linked to obesity and metabolic syndrome."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 15 mg/dL, 25-year-old healthy female", "output": "Normal. Maintain balanced lifestyle."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 55 mg/dL, 55-year-old male with fatty liver", "output": "Elevated due to liver dysfunction. Increased cardiovascular risk."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 20 mg/dL, 70-year-old female, normal weight", "output": "Normal. Good lipid control."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 60 mg/dL, 45-year-old male with diabetes and CAD", "output": "Very high; major cardiovascular risk. Requires medication."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 14 mg/dL, 22-year-old student", "output": "Normal. Continue healthy diet."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 30 mg/dL, 65-year-old male, smoker", "output": "Slightly high; smoking increases risk further. Quit smoking, improve lifestyle."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 75 mg/dL, 50-year-old female, obese, diabetic", "output": "Severely elevated. Very high cardiovascular and pancreatitis risk."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 18 mg/dL, 28-year-old male, vegetarian", "output": "Normal. Balanced lipid profile."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 48 mg/dL, 42-year-old female, sedentary", "output": "Elevated. Lifestyle modification needed (exercise, diet)."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 35 mg/dL, 30-year-old male, heavy alcohol intake", "output": "High-normal; alcohol raises triglycerides. Recommend alcohol reduction."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 65 mg/dL, 58-year-old female with CKD", "output": "Elevated. Associated with CKD and increased cardiovascular risk."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 22 mg/dL, 40-year-old healthy male", "output": "Normal. No intervention needed."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 90 mg/dL, 45-year-old obese male, pancreatitis history", "output": "Critically high. Strong risk of recurrent pancreatitis. Urgent treatment needed."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 27 mg/dL, 34-year-old pregnant female", "output": "Slightly elevated; common in pregnancy. Monitor closely."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 50 mg/dL, 68-year-old male with metabolic syndrome", "output": "Elevated; part of metabolic syndrome cluster. Needs aggressive management."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 19 mg/dL, 26-year-old female, normal BMI", "output": "Normal. Maintain healthy lifestyle."}
+{"instruction": "Interpret the given VLDL value.", "input": "VLDL = 58 mg/dL, 48-year-old male, strong family history of CAD", "output": "Elevated. Genetic risk + high VLDL → high cardiovascular risk. Needs therapy."}
