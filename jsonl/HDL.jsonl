@@ -1,0 +1,25 @@
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 65 mg/dL (male, 30 years, healthy)", "output": "Excellent HDL. Protective against heart disease."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 38 mg/dL (female, 45 years, overweight)", "output": "Low HDL. Increased cardiovascular risk. Lifestyle changes needed."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 55 mg/dL (male, 50 years, smoker)", "output": "Normal HDL, but smoking negates protective effects. Smoking cessation strongly advised."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 70 mg/dL (female, 28 years, active lifestyle)", "output": "Very good HDL. Low risk for heart disease. Maintain lifestyle."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 30 mg/dL (male, 60 years, diabetic)", "output": "Very low HDL. High risk for cardiovascular disease. Intensive lifestyle + medical therapy required."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 52 mg/dL (female, 35 years, no comorbidities)", "output": "Healthy HDL. No concerns."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 44 mg/dL (male, 25 years, obese)", "output": "Borderline normal HDL. Weight management recommended."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 80 mg/dL (female, 50 years, healthy diet)", "output": "Excellent HDL, strong cardiovascular protection."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 39 mg/dL (male, 40 years, sedentary)", "output": "Low HDL. Needs physical activity and dietary changes."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 50 mg/dL (female, 60 years, hypertensive)", "output": "Normal HDL, but hypertension increases cardiovascular risk."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 33 mg/dL (male, 55 years, chronic alcohol use)", "output": "Low HDL. Alcohol not effective in raising protective HDL. Needs intervention."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 47 mg/dL (female, 25 years, athletic)", "output": "Normal HDL, exercise helps maintain."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 29 mg/dL (male, 35 years, metabolic syndrome)", "output": "Very low HDL. Associated with high metabolic and cardiovascular risk."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 62 mg/dL (female, 70 years, vegetarian diet)", "output": "Good HDL, diet supports cardiovascular health."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 41 mg/dL (male, 22 years, high triglycerides)", "output": "Just above cutoff. High triglycerides offset benefit. Needs monitoring."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 75 mg/dL (female, 40 years, healthy)", "output": "Excellent HDL, protective against heart disease."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 36 mg/dL (male, 65 years, smoker, diabetic)", "output": "Low HDL with multiple risk factors. Very high cardiovascular risk."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 58 mg/dL (female, 55 years, on statin therapy)", "output": "Normal HDL, statins primarily lower LDL but maintaining HDL is beneficial."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 43 mg/dL (male, 30 years, overweight)", "output": "Borderline. Needs weight reduction and activity."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 82 mg/dL (female, 20 years, athlete)", "output": "Very high HDL, excellent cardiovascular profile."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 34 mg/dL (male, 45 years, high LDL cholesterol)", "output": "Low HDL + high LDL = double cardiovascular risk. Medical therapy likely required."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 46 mg/dL (female, 38 years, moderate exercise)", "output": "Normal HDL, maintain activity."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 28 mg/dL (male, 70 years, chronic kidney disease)", "output": "Very low HDL, high risk of atherosclerosis. Needs aggressive risk management."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 60 mg/dL (female, 30 years, no risk factors)", "output": "Healthy HDL. Continue lifestyle measures."}
+{"instruction": "Interpret this HDL cholesterol level.", "input": "HDL = 35 mg/dL (male, 50 years, obese, hypertensive)", "output": "Low HDL with multiple risk factors. Requires urgent lifestyle and medical intervention."}
